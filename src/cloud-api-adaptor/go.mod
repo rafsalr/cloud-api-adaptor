@@ -19,7 +19,7 @@ require (
 	github.com/coreos/go-iptables v0.6.0
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/google/uuid v1.6.0
-	github.com/kata-containers/kata-containers/src/runtime v0.0.0-20250220145350-19a7f2773679
+	github.com/kata-containers/kata-containers/src/runtime v0.0.0-20250320073820-c0632f847fe7
 	github.com/opencontainers/runtime-spec v1.1.1-0.20230922153023-c0e90434df2a
 	github.com/stretchr/testify v1.9.0
 	github.com/vishvananda/netlink v1.2.1-beta.2
@@ -47,11 +47,11 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/eks v1.29.5
 	github.com/aws/aws-sdk-go-v2/service/iam v1.38.8
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.75.0
-	github.com/confidential-containers/cloud-api-adaptor/src/cloud-providers v0.12.0
-	github.com/confidential-containers/cloud-api-adaptor/src/peerpod-ctrl v0.12.0
+	github.com/confidential-containers/cloud-api-adaptor/src/cloud-providers v0.13.0
+	github.com/confidential-containers/cloud-api-adaptor/src/peerpod-ctrl v0.13.0
 	github.com/coreos/go-systemd v0.0.0-20190719114852-fd7a80b32e1f
 	github.com/docker/docker v25.0.6+incompatible
-	github.com/golang-jwt/jwt/v5 v5.2.1
+	github.com/golang-jwt/jwt/v5 v5.2.2
 	github.com/klauspost/cpuid/v2 v2.2.9
 	github.com/moby/sys/mountinfo v0.7.1
 	github.com/pelletier/go-toml/v2 v2.1.0
@@ -137,7 +137,7 @@ require (
 	github.com/go-playground/locales v0.14.1 // indirect
 	github.com/go-playground/universal-translator v0.18.1 // indirect
 	github.com/go-playground/validator/v10 v10.19.0 // indirect
-	github.com/golang-jwt/jwt/v4 v4.5.1 // indirect
+	github.com/golang-jwt/jwt/v4 v4.5.2 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/google/gnostic v0.5.7-v3refs // indirect
@@ -193,7 +193,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.29.0 // indirect
 	go.starlark.net v0.0.0-20200306205701-8dd3e2ee1dd5 // indirect
 	golang.org/x/mod v0.17.0 // indirect
-	golang.org/x/net v0.33.0 // indirect
+	golang.org/x/net v0.36.0 // indirect
 	golang.org/x/oauth2 v0.23.0 // indirect
 	golang.org/x/sync v0.11.0 // indirect
 	golang.org/x/term v0.29.0 // indirect
